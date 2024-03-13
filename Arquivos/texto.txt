@@ -1,0 +1,4 @@
+Nome: Ana	Salario: 5000
+Nome: Joao	Salario: 2300
+Nome: Bia	Salario: 6200
+Nome: Jose	Salario: 9000
